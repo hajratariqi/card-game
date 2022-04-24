@@ -1,0 +1,23 @@
+@font-face {
+    font-family: monoster;
+    src: url(Montserrat-Bold.ttf);
+}
+*{
+    margin-left: 1%;
+    margin-top: 1%;
+    font-family: monoster;
+}
+#gameText{
+    font-size: 2vw;
+}
+#starbtn{
+    font-size: 2vw;
+}
+#mainimg{
+    width: 17%;
+}
+img{
+    width: 340px;
+    height: 410px
+    ;
+}
